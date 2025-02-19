@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+    // berechnet Zins für jedes Jahr
         Scanner in = new Scanner(System.in);
         System.out.println("Anzahl Jahre eingeben: ");
         int jahre = in.nextInt();
