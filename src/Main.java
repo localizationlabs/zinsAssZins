@@ -20,7 +20,6 @@ public class Main {
             konto += zins;
 
             System.out.printf("Im %d. Jahr gibt es %.2f CHF Zins. Neuer Kontostand: %.2f CHF\n", i,zins,konto);
-
         }
 
     }
